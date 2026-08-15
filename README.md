@@ -1,9 +1,8 @@
 ### 👋 Hi there!
 
-I'm Kiarash Azarnia ![version](https://img.shields.io/badge/version-v0.28.0--beta-blue), currently beta version, maybe always!
+I'm Kiarash Azarnia ![version](https://img.shields.io/badge/version-v0.28.0--beta-orange)!
 
-A software engineer drawn to infrastructure, reliability, systems thinking and safety engineering. Always trying to go back and find the roots and explore the connections and learn from the basics. I share my learning journey over at [kiarash.io](https://kiarash.io).
-All opinions my own, not those of any company or contractor I work with. Check [my LinkedIn](https://www.linkedin.com/in/kiarashazarnia/) for my career.
+Currently in beta (and maybe always). I am a software engineer drawn to infrastructure, reliability, systems thinking, and safety engineering. I love mapping complex connections and learning from first principles. Lately, I've been more investing in open-source contributions to pursue my research interests and spice up my learning journey. It is far more exciting than learning in isolation! I share my learning journey at my blog, [/root/cause](https://kiarash.io). All opinions are my own, not those of any company or client I work with. Check out [my LinkedIn](https://www.linkedin.com/in/kiarashazarnia/) for my career history.
 
 **Currently looking into...**
 
